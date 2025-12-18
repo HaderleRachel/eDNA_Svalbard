@@ -1,4 +1,4 @@
-eDNA Analyses – Svalbard
+**eDNA Analyses – Svalbard**
 
 This repository contains all the code and input files required to reproduce the environmental DNA (eDNA) analyses conducted in Svalbard.
 
